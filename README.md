@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fl0at1ngCaT
-- 👀 I’m interested in coding and art.
+- 👀 I’m interested in coding and creating art.
 - 🌱 I’m currently learning Python and exploring the 3rd wave of digital/internet transformations.
 - 📫 Reach me at https://twitter.com/Hein_AiExplorer.
 
